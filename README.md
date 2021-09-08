@@ -1,3 +1,2 @@
 # oscillatory-rheology
-A main executable containing Python data classes that describe different modes of deformation (strain or stress-controlled amplitude sweeps, frequency sweeps), calculates various 
-material measures, and plots them.
+A main executable (main_antonpaar.py) containing Python data classes that describe different modes of deformation (strain or stress-controlled amplitude sweeps, frequency sweeps), calculates various material measures and plots them with helper functions from rheofuncs.py. Also an assortment of auxiliary files for plotting summarized and averaged rheology data processed initially with main_antonpaar.py.
